@@ -1,10 +1,10 @@
 [JAVA__BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[MySQL__BADGE]:https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+[MicrosoftSQLServer__BADGE]:https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
 <h1 align="center" style="font-weight: bold;">Sistema para escola de futebol 💻</h1>
 
 ![Java][JAVA__BADGE]
-![MySQL][MySQL__BADGE]
+![MicrosoftSQLServer][MicrosoftSQLServer__BADGE]
 
 <h2 id="sobreProjeto">📍 Sobre o Projeto</h2>
 O sistema para escola de futebol consiste em facilitar o controle e cadastro de alunos, turmas e treinadores de uma escolinha de futebol. A interface desta aplicação foi desenvolvida com a biblioteca Java Swing e conta com quatro telas para gerenciar os dados dos usuários. Após o preenchimento dos dados, as informações são enviadas ao banco de dados, onde podem ser gerenciadas de forma eficiente.
