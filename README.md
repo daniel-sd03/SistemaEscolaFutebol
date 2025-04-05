@@ -12,7 +12,7 @@ O sistema para escola de futebol consiste em facilitar o controle e cadastro de 
 <h2 id="tecnologias">💻 Tecnologias</h2>
 
 - Java
-- MySQL
+- MicrosoftSQLServer
 
 <h2 id="started">🚀  Começando</h2>
 
